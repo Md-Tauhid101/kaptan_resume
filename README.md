@@ -1,2 +1,2 @@
-# kaptan_resume
-This is kaptan sir portfolio
+# portfolio-rla
+Ram Lal Anand College(DU), Principal's Portfolio 
